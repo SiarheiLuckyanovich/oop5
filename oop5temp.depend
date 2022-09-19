@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1663571378 source:d:\rab\study\c\oop5temp\main.cpp
+	"Card.h"
+	<vector>
+	<iostream>
+
+1663391862 d:\rab\study\c\oop5temp\card.h
+
